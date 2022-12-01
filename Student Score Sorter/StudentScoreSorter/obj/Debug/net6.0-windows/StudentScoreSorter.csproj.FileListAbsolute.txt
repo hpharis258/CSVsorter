@@ -1,0 +1,17 @@
+C:\Users\Haroldas\Desktop\Student Score Sorter\StudentScoreSorter\bin\Debug\net6.0-windows\StudentScoreSorter.exe
+C:\Users\Haroldas\Desktop\Student Score Sorter\StudentScoreSorter\bin\Debug\net6.0-windows\StudentScoreSorter.deps.json
+C:\Users\Haroldas\Desktop\Student Score Sorter\StudentScoreSorter\bin\Debug\net6.0-windows\StudentScoreSorter.runtimeconfig.json
+C:\Users\Haroldas\Desktop\Student Score Sorter\StudentScoreSorter\bin\Debug\net6.0-windows\StudentScoreSorter.dll
+C:\Users\Haroldas\Desktop\Student Score Sorter\StudentScoreSorter\bin\Debug\net6.0-windows\StudentScoreSorter.pdb
+C:\Users\Haroldas\Desktop\Student Score Sorter\StudentScoreSorter\obj\Debug\net6.0-windows\StudentScoreSorter.csproj.AssemblyReference.cache
+C:\Users\Haroldas\Desktop\Student Score Sorter\StudentScoreSorter\obj\Debug\net6.0-windows\StudentScoreSorter.Form1.resources
+C:\Users\Haroldas\Desktop\Student Score Sorter\StudentScoreSorter\obj\Debug\net6.0-windows\StudentScoreSorter.csproj.GenerateResource.cache
+C:\Users\Haroldas\Desktop\Student Score Sorter\StudentScoreSorter\obj\Debug\net6.0-windows\StudentScoreSorter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Haroldas\Desktop\Student Score Sorter\StudentScoreSorter\obj\Debug\net6.0-windows\StudentScoreSorter.AssemblyInfoInputs.cache
+C:\Users\Haroldas\Desktop\Student Score Sorter\StudentScoreSorter\obj\Debug\net6.0-windows\StudentScoreSorter.AssemblyInfo.cs
+C:\Users\Haroldas\Desktop\Student Score Sorter\StudentScoreSorter\obj\Debug\net6.0-windows\StudentScoreSorter.csproj.CoreCompileInputs.cache
+C:\Users\Haroldas\Desktop\Student Score Sorter\StudentScoreSorter\obj\Debug\net6.0-windows\StudentScoreSorter.dll
+C:\Users\Haroldas\Desktop\Student Score Sorter\StudentScoreSorter\obj\Debug\net6.0-windows\refint\StudentScoreSorter.dll
+C:\Users\Haroldas\Desktop\Student Score Sorter\StudentScoreSorter\obj\Debug\net6.0-windows\StudentScoreSorter.pdb
+C:\Users\Haroldas\Desktop\Student Score Sorter\StudentScoreSorter\obj\Debug\net6.0-windows\StudentScoreSorter.genruntimeconfig.cache
+C:\Users\Haroldas\Desktop\Student Score Sorter\StudentScoreSorter\obj\Debug\net6.0-windows\ref\StudentScoreSorter.dll
